@@ -1,7 +1,7 @@
 # Project-Killbills-Fu Yang
 Test-Data X - Classification des Articles de Tickets de Caisse
 
-Ce projet vise à effectuer une classification des articles trouvés dans les tickets de caisse. Il comprend un fichier Python (data_x.py) contenant le code source pour réaliser cette tâche, ainsi qu'un document PDF (nom_du_document.pdf) expliquant en détail les tests effectués.
+Ce projet vise à effectuer une classification des articles trouvés dans les tickets de caisse. Il comprend un fichier Python (data_x.py) contenant le code source pour réaliser cette tâche, ainsi qu'un document PDF (Rapport de Test.pdf) expliquant en détail les tests effectués.
 
 ## Fonctionnalités
 
